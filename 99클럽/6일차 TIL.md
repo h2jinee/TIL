@@ -78,7 +78,7 @@ class Solution {
     // "orange" 키는 존재하지 않으므로 기본값 반환
     int orangeCount = fruitMap.getOrDefault("orange", 0); // 결과: 0
     ```
-    위 예시에서 `fruitMap.getOrDefault("apple", 0)`는 `"apple"` 키가 존재하므로 그 값을 반환하고, `fruitMap.getOrDefault("orange", 0)`는 `"orange"` 키가 존재하지 않으므로 기본값 `0`을 반환합니다.
+    위 예시에서 `fruitMap.getOrDefault("apple", 0)`는 `"apple"` 키가 존재하므로 그 값을 반환하고, `fruitMap.getOrDefault("orange", 0)`는 `"orange"` 키가 존재하지 않으므로 기본값 `0`을 반환한다.
 
     만약
 
