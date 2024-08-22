@@ -1,6 +1,6 @@
 ![기본형1_java](https://github.com/user-attachments/assets/6ac5189b-a4bd-44ae-a4d4-306d6e777973)
 
-## 무인도 여
+## 무인도 여행
 
 ### 문제풀이
 
